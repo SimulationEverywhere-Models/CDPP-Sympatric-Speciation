@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns="http://www.example.org/DEVSModeler" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation">
+  <CoupledModelType xmi:id="_J4OgQM_ZEeey0MWjsvt74g" modelName="top" defined="true" sourceFileRelativePath="TestingProcesses.ma">
+    <coupledModels xmi:type="CoupledModelInstance" xmi:id="_J4OgQc_ZEeey0MWjsvt74g" instanceName="SS">
+      <modelType xmi:type="CoupledModelType" xmi:id="_J4OgQs_ZEeey0MWjsvt74g" modelName="SS"/>
+    </coupledModels>
+  </CoupledModelType>
+  <notation:Diagram xmi:id="_J4OgQ8_ZEeey0MWjsvt74g" type="DEVS" element="_J4OgQM_ZEeey0MWjsvt74g" name="TestingProcesses.madesigner" measurementUnit="Pixel">
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_J4OgRM_ZEeey0MWjsvt74g"/>
+  </notation:Diagram>
+</xmi:XMI>
